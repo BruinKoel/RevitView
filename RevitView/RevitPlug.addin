@@ -3,8 +3,8 @@
   <AddIn Type="Command">
     <Name>RevitView</Name>
     <FullClassName> RevitView.Models.Revit.OpenWindowCommand</FullClassName>
-    <Text> Hello World Text </Text>
-    <Description> Hello World Description</Description>
+    <Text>Intelec View </Text>
+    <Description> Opens the Intelec app</Description>
     <VisibilityMode>AlwaysVisible</VisibilityMode>
     <Assembly>
       E:\Repos\RevitView\RevitView\bin\Debug\RevitView.dll
@@ -23,7 +23,7 @@
       E:\Repos\RevitView\RevitView\bin\Debug\RevitView.dll
     </Assembly>
     <AddInId>239BD853-36E4-461f-9171-C5ACEDA4E723</AddInId>
-    <VendorId>ADSK</VendorId>
+    <VendorId>Moi</VendorId>
     <VendorDescription>bruh</VendorDescription>
   </AddIn>
 </RevitAddIns>
